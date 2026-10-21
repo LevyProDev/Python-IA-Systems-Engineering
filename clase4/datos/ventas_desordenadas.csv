@@ -1,0 +1,64 @@
+fecha,producto,region,vendedor,cantidad,precio_unitario
+2026-01-01,Laptop,La Paz,Ana,1.0,5200
+2026-02-02,Monitor,Cochabamba,Luis,4.0,1400
+2026-03-03,Impresora,Santa Cruz,Marta,7.0,1100
+2026-04-04,Teclado,La Paz,Carlos,3.0,150
+2026-05-05,Mouse,COCHABAMBA,Ana,6.0,90
+2026-06-06,Laptop,Santa Cruz,Luis,2.0,5200
+2026-01-07,Monitor,La Paz,Marta,5.0,1400
+2026-02-08,Impresora,Cochabamba,Carlos,1.0,1100
+2026-03-09,Teclado,Santa Cruz,Ana,,150
+2026-04-10,Mouse,La Paz,Luis,7.0,90
+2026-05-11,Laptop, cochabamba ,Marta,3.0,5200
+2026-06-12,Monitor,Santa Cruz,Carlos,6.0,1400
+2026-01-13,Impresora,La Paz,Ana,2.0,1100
+2026-02-14,Teclado,Cochabamba,,5.0,150
+2026-03-15,mouse,Santa Cruz,Marta,1.0,90
+2026-04-16,Laptop,La Paz,Carlos,4.0,5200
+2026-05-17,Monitor,Cochabamba,Ana,7.0,1400
+2026-06-18,Impresora,Santa Cruz,Luis,3.0,1100
+2026-01-19,Teclado,La Paz,Marta,6.0,150
+2026-02-20,Mouse,Cochabamba,Carlos,2.0,90
+2026-03-21,Laptop,Santa Cruz,Ana,5.0,5200
+2026-04-22,Monitor,La Paz,Luis,1.0,1400
+2026-05-23,Impresora,Cochabamba,Marta,4.0,1100
+2026-06-24,Teclado,Santa Cruz,Carlos,7.0,150
+2026-01-25,Mouse,La Paz,Ana,3.0,90
+2026-02-26,Laptop,Cochabamba,Luis,6.0,5200
+2026-03-27,Monitor,Santa Cruz,Marta,2.0,1400
+2026-04-01,Impresora,La Paz,Carlos,5.0,1100
+2026-05-02,Teclado,Cochabamba,Ana,1.0,150
+2026-06-03,Mouse,Santa Cruz,Luis,,90
+2026-01-04,Laptop,La Paz,Marta,7.0,5200
+2026-02-05,Monitor,COCHABAMBA,Carlos,3.0,1400
+2026-03-06,Impresora,Santa Cruz,Ana,6.0,1100
+2026-04-07,Teclado,La Paz,Luis,2.0,150
+2026-05-08,Mouse,Cochabamba,Marta,5.0,90
+2026-06-09,Laptop,Santa Cruz,Carlos,1.0,5200
+2026-01-10,Monitor,La Paz,Ana,4.0,1400
+2026-02-11,Impresora, cochabamba ,Luis,7.0,1100
+2026-03-12,Teclado,Santa Cruz,Marta,3.0,150
+2026-04-13,Mouse,La Paz,Carlos,6.0,90
+2026-05-14,Laptop,Cochabamba,Ana,2.0,5200
+2026-06-15,Monitor,Santa Cruz,Luis,5.0,1400
+2026-01-16,Impresora,La Paz,Marta,1.0,1100
+2026-02-17,Teclado,Cochabamba,Carlos,4.0,150
+2026-03-18,Mouse,Santa Cruz,,7.0,90
+2026-04-19,Laptop,La Paz,Luis,3.0,5200
+2026-05-20,Monitor,Cochabamba,Marta,6.0,1400
+2026-06-21,Impresora,Santa Cruz,Carlos,2.0,1100
+2026-01-22,Teclado,La Paz,Ana,5.0,150
+2026-02-23,Mouse,Cochabamba,Luis,1.0,90
+2026-03-24,Laptop,Santa Cruz,Marta,,5200
+2026-04-25,Monitor,La Paz,Carlos,7.0,1400
+2026-05-26,Impresora,Cochabamba,Ana,3.0,1100
+2026-06-27,Teclado,Santa Cruz,Luis,6.0,150
+2026-01-01,Mouse,La Paz,Marta,2.0,90
+2026-02-02,Laptop,Cochabamba,Carlos,5.0,5200
+2026-03-03,Monitor,Santa Cruz,Ana,1.0,1400
+2026-04-04,Impresora,La Paz,Luis,4.0,1100
+2026-05-05,Teclado,Cochabamba,Marta,7.0,150
+2026-06-06,Mouse,Santa Cruz,Carlos,3.0,90
+2026-01-01,Laptop,La Paz,Ana,1.0,5200
+2026-02-02,Monitor,Cochabamba,Luis,4.0,1400
+2026-03-03,Impresora,Santa Cruz,Marta,7.0,1100
