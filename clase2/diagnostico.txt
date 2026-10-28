@@ -1,0 +1,12 @@
+Tipo de error: ValueError
+Mensaje: could not convert string to float: '45OO'
+Línea: 39
+Código: return float(texto)   # si funciona, devuelve el número y termina
+Contexto: El usuario escribió: '45OO'
+------------------------------
+Tipo de error: ZeroDivisionError
+Mensaje: float division by zero
+Línea: 47
+Código: return total / cuotas   # si cuotas es 0, aquí ocurre ZeroDivisionError
+Contexto: Cuotas ingresadas: 0
+------------------------------

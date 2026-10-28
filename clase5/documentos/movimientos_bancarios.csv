@@ -1,0 +1,13 @@
+fecha,concepto,tipo,monto
+2026-09-01,Cobro cliente Alfa,ingreso,25000
+2026-09-03,Pago alquiler,egreso,12000
+2026-09-05,Cobro cliente Beta,ingreso,18000
+2026-09-08,Pago sueldos,egreso,40000
+2026-09-10,Compra materiales,egreso,6500
+2026-09-12,Cobro cliente Gamma,ingreso,30000
+2026-09-15,Pago servicios,egreso,4200
+2026-09-18,Cobro cliente Alfa,ingreso,22000
+2026-09-22,Pago impuestos,egreso,9800
+2026-09-25,Pago marketing,egreso,7000
+2026-09-28,Cobro cliente Delta,ingreso,15000
+2026-09-30,Comisión bancaria,egreso,350

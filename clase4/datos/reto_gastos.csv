@@ -1,0 +1,43 @@
+fecha,departamento,categoria,monto,responsable
+2026-01-01,Contabilidad,Viáticos,100,Rosa
+2026-02-02,Legal,Materiales,137,Pedro
+2026-03-03,Ventas,Servicios,174,Elena
+2026-04-04,Sistemas,Viáticos,Bs 211,Rosa
+2026-05-05,Contabilidad,Materiales,248,Pedro
+2026-06-06,LEGAL,Servicios,285,Elena
+2026-01-07,Ventas,Viáticos,322,Rosa
+2026-02-08,Sistemas,Materiales,359,Pedro
+2026-03-09,Contabilidad,Servicios,396,Elena
+2026-04-10,Legal,Viáticos,,Rosa
+2026-05-11,Ventas,Materiales,470,Pedro
+2026-06-12,Sistemas,Servicios,507,Elena
+2026-01-13,Contabilidad,Viáticos,544,Rosa
+2026-02-14,Legal,Materiales,581,Pedro
+2026-03-15,Ventas,Servicios,618,Elena
+2026-04-16,Sistemas,Viáticos,655,Rosa
+2026-05-17,Contabilidad,Materiales,692,Pedro
+2026-06-18,Legal,Servicios,729,Elena
+2026-01-19,Ventas,Viáticos,Bs 766,Rosa
+2026-02-20,Sistemas,Materiales,803,Pedro
+2026-03-21,Contabilidad,Servicios,840,Elena
+2026-04-22,Legal,Viáticos,877,Rosa
+2026-05-23,VENTAS,Materiales,914,Pedro
+2026-06-24,Sistemas,Servicios,951,Elena
+2026-01-25,Contabilidad,Viáticos,988,Rosa
+2026-02-26,Legal,Materiales,125,Pedro
+2026-03-27,Ventas,Servicios,162,Elena
+2026-04-01,Sistemas,Viáticos,Bs 199,Rosa
+2026-05-02,Contabilidad,Materiales,236,Pedro
+2026-06-03,Legal,Servicios,273,Elena
+2026-01-04,Ventas,Viáticos,310,Rosa
+2026-02-05,Sistemas,Materiales,347,Pedro
+2026-03-06,Contabilidad,Servicios,384,Elena
+2026-04-07,Legal,Viáticos,421,Rosa
+2026-05-08,Ventas,Materiales,458,Pedro
+2026-06-09,Sistemas,Servicios,495,Elena
+2026-01-10,Contabilidad,Viáticos,532,Rosa
+2026-02-11,Legal,Materiales,569,Pedro
+2026-03-12,Ventas,Servicios,606,Elena
+2026-04-13,Sistemas,Viáticos,643,Rosa
+2026-01-01,Contabilidad,Viáticos,100,Rosa
+2026-02-02,Legal,Materiales,137,Pedro

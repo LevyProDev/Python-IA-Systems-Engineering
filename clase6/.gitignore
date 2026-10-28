@@ -1,0 +1,8 @@
+# Directorios de caché y compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Base de datos vectorial local (ChromaDB)
+memoria_vectorial/

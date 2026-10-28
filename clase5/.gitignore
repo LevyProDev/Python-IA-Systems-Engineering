@@ -1,0 +1,11 @@
+# Python y caché
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs y archivos de ejecución temporal
+*.log
+registro.log
+
+# Resultados o carpetas locales si no quieres subirlas
+clase5/resultados/
