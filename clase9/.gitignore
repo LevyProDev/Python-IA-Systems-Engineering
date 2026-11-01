@@ -1,0 +1,24 @@
+# --- Python ---
+__pycache__/
+*.pyc
+ 
+# --- Entornos virtuales ---
+.venv/
+venv/
+env/
+ 
+# --- Secretos y configuración privada (NUNCA subir) ---
+.env
+.streamlit/secrets.toml
+ 
+# --- Archivos del sistema y del editor ---
+.DS_Store
+Thumbs.db
+.vscode/
+ 
+# --- Archivos generados ---
+*.log
+resumen.md
+ 
+# --- Datos privados (nunca subir documentos reales) ---
+documentos_privados/

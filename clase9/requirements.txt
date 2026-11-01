@@ -1,0 +1,4 @@
+# Librerías que necesita el proyecto (una por línea)
+streamlit
+pypdf
+reportlab
